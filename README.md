@@ -1,2 +1,2 @@
 # slack-bot
-A bot handler for slack
+A handler for slack bot
